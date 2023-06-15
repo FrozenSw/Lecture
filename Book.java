@@ -12,6 +12,8 @@ public class Book {
 	private int releaseYear;
 	private int numPages;
 
+	//do some stuff
+
 	public Book() {
 		super();
 		Book.numExemplars++;
