@@ -3,7 +3,8 @@ package Lecture;
 public class Book {
 
 // counts number of exemplars
-	public static int numExemplars = 0;
+	public static int numExemplars = 0; 
+	//only on my local 
 
 	private int isbn;
 	private String title;
